@@ -1,0 +1,11 @@
+DeviceID,BatteryLevel,SignalStrength,LastActive,Status
+1,85,-75,2023-11-05,Active
+2,15,-85,2023-11-01,Inactive
+3,95,-65,2023-11-08,Active
+4,40,-90,2023-11-07,Active
+5,70,-60,2023-11-06,Active
+6,25,-95,2023-11-02,Inactive
+7,10,-88,2023-11-04,Inactive
+8,55,-72,2023-11-06,Active
+9,30,-85,2023-11-03,Active
+10,90,-70,2023-11-08,Active
